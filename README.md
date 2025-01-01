@@ -16,7 +16,7 @@ I'm a passionate React Developer, Frontend Developer, and Web Developer. I speci
 
 ## 🔧 Currently Working On
 
-- Building an e-commerce website 'ShopEase' using React, TypeScript, Firebase, and Stripe.
+- Building a Movie Website "NewNovies" using Reactjs,Typescript,Zustand(For State Management), Firebase (For Authentication), TMDB API
 - Continuously improving my frontend skills and learning new technologies to build better user experiences.
   
 
