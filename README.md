@@ -10,9 +10,9 @@ I'm a passionate React Developer, Frontend Developer, and Web Developer. I speci
 
 ## 🌱 My Tech Stack
 
-- **Frontend**: React, Redux, TypeScript, HTML, CSS, SASS, Javascript
+- **Frontend**: React, TypeScript, HTML, CSS, SASS, Javascript , State Management (  Redux, Context Api, Zustand )
 - **Backend**: Node.js, Express (for some full-stack projects)
-- **Other Tools**: Firebase, Stripe, Git, Vite, Tailwind CSS, Material UI, Ant Design
+- **Other Tools**: Firebase, Stripe, Git, Vite, Tailwind CSS, Material UI, Ant Design,DAisy UI
 
 ## 🔧 Currently Working On
 
