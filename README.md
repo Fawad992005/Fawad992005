@@ -22,7 +22,7 @@ I'm a passionate React Developer, Frontend Developer, and Web Developer. I speci
 
 ## 👨‍💻 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/fawad-ahmed-182954254/
+- LinkedIn: https://www.linkedin.com/in/fawad-ahmed-207b3b343/
 
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories. Happy coding! 🚀
