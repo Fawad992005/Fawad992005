@@ -16,8 +16,8 @@ I'm a passionate React Developer, Frontend Developer, and Web Developer. I speci
 
 ## 🔧 Currently Working On
 
-- Buiilding my own portfolio website to showcase my work.
-- Continuously improving my frontend skills and learning new technologies to build better user experiences.
+- Learning Backend technologies such as Nodejs, Expressjs and Databse MongoDB
+- Continuously improving my full stack skills and learning new technologies to build better user experiences.
   
 
 ## 👨‍💻 Let's Connect
