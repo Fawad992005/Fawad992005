@@ -26,9 +26,9 @@ I'm a passionate React Developer, Frontend Developer, and Web Developer. I speci
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FawadAhmed514&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fawad992005&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawadAhmed514&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawad992005&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 👨‍💻 Let's Connect
